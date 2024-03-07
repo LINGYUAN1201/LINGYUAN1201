@@ -11,7 +11,7 @@
 
   - 🤔 &nbsp; I'm passionate about statistical modeling, focusing on implementation in R and Python. 
   - 🎓 &nbsp; I also have knowledge about sustainable development, volatility spillover effects, and game theory.
-  - 🌱 &nbsp; In addition, I'm an amateur StarCraft player.
+  - 🌱 &nbsp; In addition, I'm an amateur RTS game player.
 
 My personal homepage: https://lingyuan1201.github.io/
 
