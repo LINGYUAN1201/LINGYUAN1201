@@ -11,7 +11,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
   - 🤔 &nbsp; I'm passionate about statistical modeling, focusing on implementation in R and Python. 
-  - 🎓 &nbsp; I also have knowledge about sustainable development, volatility spillover effects, and game theory.
+  - 🎓 &nbsp; My research proposal relates to green innovation, spillover effects and extreme events.
   - 🌱 &nbsp; In addition, I am also an amateur RTS gamer, proficient in StarCraft II and Age of Empires IV.
   - 😎 &nbsp; Here is my [homepage](https://lingyuan1201.github.io/).
 
