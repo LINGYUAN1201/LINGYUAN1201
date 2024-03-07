@@ -11,9 +11,10 @@
 
   - 🤔 &nbsp; I'm passionate about statistical modeling, focusing on implementation in R and Python. 
   - 🎓 &nbsp; I also have knowledge about sustainable development, volatility spillover effects, and game theory.
-  - 🌱 &nbsp; In addition, I'm an amateur RTS game player.
+  - 🌱 &nbsp; In addition, I am also an amateur RTS gamer, proficient in StarCraft 2 and Age of Empires IV.
+  - 😎 &nbsp; Here is my [homepage](https://lingyuan1201.github.io/).
 
-My personal homepage: https://lingyuan1201.github.io/
+
 
 <p> &nbsp;</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
