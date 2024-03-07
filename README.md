@@ -16,5 +16,4 @@
 
 
 
-<p> &nbsp;</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/LINGYUAN1201/LINGYUAN1201/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
