@@ -13,7 +13,7 @@
   - 🤔 &nbsp; I'm passionate about statistical modeling, focusing on implementation in R and Python. 
   - 🎓 &nbsp; I am interested in a wide range of statistical and business research, and looking for 25fall PhD entry opportunities in related fields.
   - 🌱 &nbsp; In addition, I am also an amateur RTS gamer, proficient in StarCraft II and Age of Empires IV.
-  - 😎 &nbsp; More information about me can be found on my homepage! Here is my [homepage](https://lingyuan1201.github.io/).
+  - 😎 &nbsp; More information about me can be found on my [homepage](https://lingyuan1201.github.io/)!
 
 
 
