@@ -34,7 +34,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
   - 🤔 &nbsp; I am committed to developing more tools to simplify the technical aspects of management research (mainly based on R and Python)
-  - 🎓 &nbsp; I am interested in a wide range of statistical and business research, and looking for 25fall PhD entry opportunities in related fields.
+  - 🎓 &nbsp; I am interested in a wide range of statistical and business research and will soon be enrolled in a PhD in 25 Fall.
   - 🌱 &nbsp; In addition, I am also an amateur RTS gamer, proficient in StarCraft II and Age of Empires IV.
   - 😎 &nbsp; More information about me can be found on my [homepage](https://lingyuan1201.github.io/)!
 
