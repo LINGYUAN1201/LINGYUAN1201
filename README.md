@@ -2,15 +2,15 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22); What a wonderful day!!&center=true&size=27" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=500&color=36BCF7&center=true&vCenter=true&lines=console.log('Hello,+World!');Have+a+nice+day!;Welcome+to+my+GitHub!;Enjoy+coding!" 
+         style="width: 350px;" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LINGYUAN1201/LINGYUAN1201/main/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LINGYUAN1201/LINGYUAN1201/main/assets/images/developer.svg" height="225px" />
-    <img src="https://raw.githubusercontent.com/LINGYUAN1201/LINGYUAN1201/main/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LINGYUAN1201/LINGYUAN1201/main/assets/images/developer.svg" />
+    <img src="https://raw.githubusercontent.com/LINGYUAN1201/LINGYUAN1201/main/assets/images/coding.gif" style="height: 200px;" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -18,15 +18,17 @@
 
 </div>
 
-
-
-<h1 align="center">Hi 👋, I'm Ling YUAN
- <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/R-4.3.3-3776AB?style=flat-square&logo=Rstudio&logoColor=white" style="display: inline-block;" />
- </div>
+<h1 align="center">
+  Hi 👋, I'm Ling YUAN
+  <div>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-4.3.3-3776AB?style=flat-square&logo=Rstudio&logoColor=white" />
+  </div>
 </h1>
+
+
+
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
